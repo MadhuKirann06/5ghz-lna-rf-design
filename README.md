@@ -3,10 +3,10 @@ Design and simulation of a 5 GHz Low Noise Amplifier (LNA) for 5G wireless syste
 # Design and Simulation of a 5 GHz Low Noise Amplifier (LNA) for 5G Wireless Systems ⚡
 
 ## Circuit Schematic & Simulation Workspace
-![QucsStudio LNA Schematic](https://drive.google.com/file/d/1hSKhssVlYqJb4Thoiv0F6N8Je5ZpWSEl/view?usp=sharing)
+![QucsStudio LNA Schematic](https://drive.google.com/file/d/1hSKhssVlYqJb4Thoiv0F6N8Je5ZpWSEl/view?usp=drive_link)
 
 ## S-Parameter & Smith Chart Performance Results
-![LNA Simulation Results](https://drive.google.com/file/d/1RmJ3sQIauNceA-lgGqO1IxmBt9QqJu5U/view?usp=sharing)
+![LNA Simulation Results](https://drive.google.com/file/d/1RmJ3sQIauNceA-lgGqO1IxmBt9QqJu5U/view?usp=drive_link)
 
 ## Project Description
 This repository features the high-frequency design, modeling, and S-parameter simulation of a $5\text{ GHz}$ Low Noise Amplifier (LNA) optimized for next-generation 5G wireless receiver front-ends. LNAs are critical components in RF receivers, tasked with amplifying weak signals captured by the antenna while introducing minimal noise. This project leverages an active transistor architecture model (`atf34143.s2p`) to evaluate network matching configurations, stability conditions ($K$-factor), input/output return losses, and power gain across a $1\text{ GHz}$ to $10\text{ GHz}$ test spectrum.
